@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Comentario del proyecto: curso practico de JS (062022)
+.vscode
